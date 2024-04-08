@@ -26,7 +26,7 @@ let products = [
     },
     {
         id: 2,
-        name: 'Purrfect Peach Mango Tango',
+        name: 'Peach Mango Tango',
         image: 'p2.jpg',
         price: 39
     },
